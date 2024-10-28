@@ -18,3 +18,18 @@ header {
 .author-link {
     color: #20A9E5;
 }
+
+
+.cell-bigger{
+    width: 60%;
+}
+
+th{
+    text-align: left;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
